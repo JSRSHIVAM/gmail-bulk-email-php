@@ -1,6 +1,3 @@
-# gmail-bulk-email-php
-Email to bulk email id from csv using this application.Built in PHP 5 and MySql 5.6.2
-
 Steps
 1. open localhost/phpmyadmin
 2. create database "mydb"
@@ -20,4 +17,3 @@ Steps to mail
 
 !!HOPE YOU LIKE IT --Shivam (shivam9172@gmail.com)!!
 Edit the app as per your need
-

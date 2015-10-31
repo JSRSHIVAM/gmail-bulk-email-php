@@ -1,0 +1,14 @@
+/*
+	Author	: Shivam Chaurasia
+	Descp	: Styles for Demla Production mailing software
+*/
+
+.header-title {
+	
+}
+
+.boxes {
+	border: 1px solid #ccc;
+    padding: 5px;
+	min-height: 12em;
+}
