@@ -9,7 +9,7 @@ Steps
 Edit the config.php
 1. Enter your gmail id and password.
 2. Enter the sender title.
-3. Set the foldder location of upload folder (important).
+3. Set the folder location of upload folder (important).
 
 Steps to mail
 1. Open the  webapp.
